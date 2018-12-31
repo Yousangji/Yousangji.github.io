@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "JiJJing's Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Sangji Yoo"
+description              : "Blog for Taking note."
 url                      : "https://Yousangji.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangji"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Will to Meaning"
   location         : "Somewhere"
   email            :
   links:
