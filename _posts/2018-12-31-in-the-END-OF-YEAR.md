@@ -1,8 +1,9 @@
 ---
 title: "The first and the last"
 date: 2018-12-31 15:26:28 -0400
-permalink: /categories/
-layout: categories
+layout: home
+categories:
+  - Note
 ---
 
 Always, people just know the time to do something.

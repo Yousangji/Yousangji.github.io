@@ -1,7 +1,9 @@
 ---
 title: "First Milestone"
 date: 2019-01-05 13:26:28 -0400
-categories: jekyll update
+layout: home
+categories:
+  - Post
 ---
 ####BackEnd 공부 방향 
 
