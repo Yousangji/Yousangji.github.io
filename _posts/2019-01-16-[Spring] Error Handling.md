@@ -127,6 +127,7 @@ we can implement a @ControllerAdvice globally, but also ResponseStatusExceptions
 
 
 ####번외. Custom Error Message
+[custom Error Handling]("https://www.toptal.com/java/spring-boot-rest-api-error-handling")
 
 ````java
 public class ApiError {
