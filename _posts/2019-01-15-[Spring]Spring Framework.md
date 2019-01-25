@@ -31,4 +31,6 @@ XML/Annotation 두 가지가 있다.
 ######XML 설정
 ######Annotation 설정
 
+#### 스프링 MVC
+Front Controller 패턴에 Spring의 의존성 주입을 이용해 컴포넌트의 생명주기를 관리하는 웹 MVC 프레임워
 
