@@ -5,6 +5,10 @@ layout: home
 categories:
   - Spring
 ---
+#### 스프링 부트란?
+스프링 MVC로 웹서비스르 개발한다면 dependency 버전 관리, spring context 설정, Spring 기본 빈인 DispatcherServlet, view resolver, handler 등의 인을 구성해주어야 한다. 
+즉, 스프링 부트는 스프링 개발에 필요한 서드파티 라이브러리, 빈구성 등을 관리해 빠르개 개발할수 있게 돕는 것이다.
+
 
 ####스프링 부트 모듈
 스프링 부트는 크게 4가지 부분으로 구성되어있다. 
